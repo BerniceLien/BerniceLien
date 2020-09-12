@@ -320,7 +320,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	
 	      // fires callback function
 	      this.options.onStringTyped(this.arrayPos, this);
-	      this.toggleBlinking(true);
+	      this.toggleBlinking(false);
 	      // is this the final string
 	      if (this.arrayPos === this.strings.length - 1) {
 	        // callback that occurs on the last typed string

@@ -362,7 +362,12 @@ img.mfp-img {
     }
     .m-btn,
     .theme-after:after,
-    .typed-cursor--blink  {
+    .base-color2 {
       background: #b1a799;
     }
 
+    .m-btn,
+    .theme-after:after,
+    .typed-fade-out {
+      background: #b1a799;
+    }

@@ -352,13 +352,17 @@ img.mfp-img {
     .m-btn,
     .theme-after:after,
     .element {
-      background: #dacdba;
+      background: #b1a799;
     }
-    
+
     .m-btn,
     .theme-after:after,
     .typed-cursor  {
-      background: #dacdba;
+      background: #b1a799;
     }
-
+    .m-btn,
+    .theme-after:after,
+    .typed-cursor typed-cursor--blink  {
+      background: #b1a799;
+    }
     

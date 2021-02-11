@@ -1429,8 +1429,8 @@ ul.timeline > li:before {
 }
 
 .mono .pill-button:hover {
-  background-color: black;
-  border-color: black;
+  background-color: #b1a799;
+  border-color: #b1a799;
 }
 
 .mono .loader {
